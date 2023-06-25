@@ -2,12 +2,12 @@
 
 ## DESCRIPTION
 
-It's button and embed modules for Discord.js.
+This is a collection of modules that I use in my discord bots. I hope you find them useful.
 
 ## PREREQUISITES
 
 - [Node.js](https://nodejs.org/en/download/)
-- Discord v14
+- [Discord.js](https://discord.js.org/#/)
 
 ## INSTALLATION
 
@@ -39,7 +39,7 @@ const button = new ActionRowBuilder()
 
 ## HELP
 
-If you need help, you can contact me on Discord: Eliott#5072
+If you need help, you can contact me on Discord: `.eliottb`.
 
 ## DONATE
 
